@@ -6,4 +6,11 @@ We start in NAC lobby and can navigate throguh 20 connected locations around cam
 Using commands such as directionals (north, east, south, west), and actions (take, inventory, status, map), we can explore this text version of the NAC building, collecting clues to help us prove that the laptop in Lost and Found is
 actually ours.
 Our inventory, energy, time left, and clues status will change as the story progresses.
-The goal is simple: find enough clues to reach the lost and found room before you're out of time, energy, or overly stressed. There is also a built in mini game using the rand() function, and multiple endings exist!
+The goal is simple: find enough clues to reach the lost and found room before you're out of time, energy, or overly stressed. There is also a built-in mini game using the rand() function, and multiple endings exist!
+
+Once you run the command to play,
+your movements are north, east, south, west, up, down
+
+actions are: look, take, inventory, status, map, rest, help, quit 
+
+Good luck!
