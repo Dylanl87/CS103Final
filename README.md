@@ -1,9 +1,9 @@
 # CS103Final
-An interactive adventure game attempt by a programming rookie!
+An interactive adventure game attempt by me!
 
-In this mini game, the story goes:
-
-You are a current CCNY student dreading finals week. After a long day of working on your project, its ready. While you go talk to some friends and grab food, you start zoning out and appreciating how good life is. You pack your stuff, ready to submit
-and go home, but run into an issue. Your laptop is missing! Unfortunately, you zoned out for a good amount of time, and now are unsure as to
-where your laptop might've gone in all that time. You need to, in some way, retrace your steps/places visited, and pray you can find 
-your laptop in time!
+This game is a text-based adventure game following similar concepts found in Colossal Cave Adventure. as the player, you lost your laptop and have a final project due(this laptop contains our final project, which is due in an hour!).
+We start in NAC lobby and can navigate throguh 20 connected locations around campus such as the library, cafeteria, and more.
+Using commands such as directionals (north, east, south, west), and actions (take, inventory, status, map), we can explore this text version of the NAC building, collecting clues to help us prove that the laptop in Lost and Found is
+actually ours.
+Our inventory, energy, time left, and clues status will change as the story progresses.
+The goal is simple: find enough clues to reach the lost and found room before you're out of time, energy, or overly stressed. There is also a built in mini game using the rand() function, and multiple endings exist!
